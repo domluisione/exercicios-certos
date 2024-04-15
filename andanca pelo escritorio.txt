@@ -1,0 +1,9 @@
+entrada ao escritorio
+3000340250
+distribuicao do escritorio
+8.0/6.0/9.0
+saida de escritorio
+123456789/987654321
+saida de escritorio
+630.52/980.47
+ 

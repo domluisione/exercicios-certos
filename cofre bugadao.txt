@@ -1,0 +1,14 @@
+entrada - cubo ao contrario
+
+entrada - sim
+
+entrada - cuggobyos
+
+
+saida - 520 
+
+entrada - s< 10^3 n> 10^5
+
+saida - 860
+
+saida - nao

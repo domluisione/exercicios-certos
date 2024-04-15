@@ -1,0 +1,16 @@
+entrada - < 10^15
+
+entrada - taxi ( 15)
+
+entrada - 4
+
+entrada - 3
+
+entrada - 8
+
+entrada - 5
+
+entrada - 402315
+ 
+
+saida - 6 

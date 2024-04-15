@@ -1,0 +1,18 @@
+entrada - coelho
+
+entrada - cachorro
+
+entrada - agua
+
+entrada - taxi
+
+entrada - rua
+
+entrada - shopping
+
+entrada - cadeira
+
+entrada - mesa
+
+
+saida - cadeira
